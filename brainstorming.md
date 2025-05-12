@@ -1,4 +1,29 @@
+# Summary
+### Prototype: 
+- Figma
+  
+### Frontend: 
+- React Native (JavaScript/TypeScript) 
+- Flutter (Dart)
+  
+### Backend: 
+- Supabase (PostgreSQL)
+  
+### Testing: 
+- React Native - Jest(unit tests)/Detox(e2e)
+- Flutter - flutter_test (unit tests)/integration_test (e2e)
 
+### CI/CD
+- Expo (React Native)
+- Codemagic (Flutter)
+
+### Deep linking
+- Don't know yet
+
+### QR Code Generation
+-  React, react-native-qrcode-svg
+-  Flutter, qr_flutter
+---
 # UI
 - Figma for prototype
 - Flutter or React
@@ -10,7 +35,7 @@
 # Logic & Functionnality
 - Recommendation algo
 - Multiuser management 1 - 5+
-- Qrcode technology
+- Qrcode technology (Deep linking)
 - Real time interaction (like kahoot)
 - Online/ Offline functionnality ?
 - Offer two login option : with & without google account

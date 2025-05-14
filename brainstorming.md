@@ -3,31 +3,27 @@
 - Figma
   
 ### Frontend: 
-- React Native (JavaScript/TypeScript) 
-- Flutter (Dart)
+- React Native (JavaScript/TypeScript)
   
 ### Backend: 
 - Supabase (PostgreSQL)
   
 ### Testing: 
 - React Native - Jest(unit tests)/Detox(e2e)
-- Flutter - flutter_test (unit tests)/integration_test (e2e)
 
 ### CI/CD
 - Expo (React Native)
-- Codemagic (Flutter)
 
 ### Deep linking
 - Don't know yet
 
 ### QR Code Generation
 -  React, react-native-qrcode-svg
--  Flutter, qr_flutter
 ---
 # UI
 - Figma for prototype
-- Flutter or React
-- Are we following specific design guidelines ?
+- React
+- Are we following specific design guidelines -> yes material design
 - Minimum english and french
 - Check what can we do for accessibility rules.
 - Responsive design.
